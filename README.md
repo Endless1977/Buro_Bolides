@@ -1,17 +1,21 @@
 # Buro Bolides
 
-Racen met speelgoedautootjes over je bureau. Spring over koffiekoppen, rijd loopings van een buigbare liniaal en duw elkaar van de baan. Wie van de baan rijdt is af, wie het eerst over de streep komt wint.
+Racen met speelgoedautootjes over je bureau, op banen die gebaseerd zijn op beroemde Grand Prix-circuits. Spring over koffiekoppen, rijd loopings van een buigbare liniaal en duw elkaar van de baan. Wie het eerst over de streep komt wint.
 
 **Spelen:** https://endless1977.github.io/Buro_Bolides/
 
-![Een looping van een buigbare liniaal op Het Bureau](screenshots/02-bureau-looping.png)
+![Een looping van een buigbare liniaal op Monza](screenshots/02-monza-looping.png)
 
 ## Wat zit erin
 
-- **8 banen**, elk met een eigen thema en flink langer dan eerst: een ronde duurt 15 tot 35 seconden
+- **8 banen** naar echte circuits, elk met een eigen thema en een eigen twist. Een ronde duurt ongeveer 50 seconden
 - **Schansen:** een gat in de baan met een kicker ervoor. Neem je hem te traag, dan val je erin
 - **Loopings:** met genoeg vaart kom je er rond; te langzaam en je valt er bovenin uit
+- **Kruisingen:** op Suzuka en Silverstone gaat de baan via een brug over zichzelf heen
+- **Hoogteverschillen:** klimmen naar de Raidillon, afdalen langs de Scheivlak
 - **Boostpads** (oranje pijlen) vlak voor elke looping
+- **Naast de baan is niet af:** je rijdt langzaam verder over het bureau, de vloer of het tafelkleed en kunt terug de baan op rijden. Staat de baan te hoog, dan brengt **R** je terug; na een paar seconden gebeurt dat vanzelf. Afsnijden telt niet: dan ga je terug naar waar je de baan verliet
+- **Afgronden:** alleen waar echt niets is (de rand van het bureau, de Escher-trap) val je naar beneden en kom je achter de plek waar het misging terug op de baan. Die achterstand is je straf
 - **Botsen en duwen:** met de handrem drift je tegen anderen aan
 - **Anamorfe camera:** een vaste schuine blik als bij een diorama. De Escher-trap klopt alleen vanuit die hoek
 - **Online multiplayer** voor maximaal 4 spelers, lege plekken worden bots
@@ -19,29 +23,29 @@ Racen met speelgoedautootjes over je bureau. Spring over koffiekoppen, rijd loop
 
 ## De banen
 
-| Baan | Thema | Schansen | Loopings |
-|---|---|:-:|:-:|
-| Het Bureau | Liniaal, gum, rekenmachine, plakband, dambord, krant | 1 | 1 |
-| Psychedelica | Achtvormige baan in steeds wisselende kleuren, met zwevende ogen en knopen | 1 | 1 |
-| Smeltende Tijd | Dalí-woestijn met smeltende klokken en een staande klok met slinger | 1 | – |
-| Onmogelijke Trappen | Escher-trap die eindeloos omhoog loopt | 1 | – |
-| Toetsenbord | Toetsen, muismat, kabel en een muis | 2 | 1 |
-| Tekentafel | Snijmat, blauwdruk, passer en loopings van een rolmaat | 1 | 2 |
-| Archiefkast | Hoge baan op stapels ordners, met een nietmachine als schans | 3 | – |
-| Koffiepauze | Stroopwafels, koekjes en suikerklontjes, met een sprong over een koffiekop | 2 | 1 |
+| Baan | Circuit | Twist | Schansen | Loopings |
+|---|---|---|:-:|:-:|
+| Het Bureau | Monza | Looping op het rechte stuk, schans op de Serraglio, verhoogde Parabolica | 1 | 1 |
+| Psychedelica | Suzuka | De achtvorm met een sprong precies boven de kruising | 1 | 1 |
+| Smeltende Tijd | Monaco | De staande klok is de tunnel; schans bij het zwembad over een smeltende klok | 1 | – |
+| Onmogelijke Trappen | Penrose-trap | Eindeloos omhoog, alleen kloppend in de anamorfe blik | 1 | – |
+| Toetsenbord | Silverstone | De Hangar Straight is een brug over Wellington én start/finish | 1 | 1 |
+| Tekentafel | Spa-Francorchamps | Sprong over de top van de Raidillon, loopings op Kemmel en Blanchimont | 1 | 2 |
+| Archiefkast | Interlagos | Hoog op ordnertorens, met een nietmachine als schans | 3 | – |
+| Koffiepauze | Zandvoort | Sprong over een koffiekop, looping van een lepel, Hunserug als achtbaan | 2 | 1 |
 
 ## Screenshots
 
 | | |
 |---|---|
-| ![Menu met de acht banen](screenshots/01-menu.png) | ![Sprong over een koffiekop](screenshots/03-koffiepauze-schans.png) |
-| Menu met garage en baankeuze | Koffiepauze: sprong over de koffiekop |
-| ![Sprong tussen ordners](screenshots/04-archiefkast-schans.png) | ![Sprong over de kruising](screenshots/05-psychedelica.png) |
-| Archiefkast: sprong tussen de ordners | Psychedelica: sprong over de onderdoorgang |
-| ![Looping op de muismat](screenshots/06-toetsenbord-looping.png) | ![Looping van een rolmaat](screenshots/07-tekentafel.png) |
-| Toetsenbord: looping op de muismat | Tekentafel: looping van een rolmaat |
-| ![Staande klok met slinger](screenshots/08-smeltende-tijd.png) | ![Escher-trap](screenshots/09-onmogelijke-trappen.png) |
-| Smeltende Tijd: de slinger slaat je opzij | Onmogelijke Trappen: schans op de trap |
+| ![Menu met de acht banen](screenshots/01-menu.png) | ![Sprong over een koffiekop](screenshots/03-zandvoort-koffiekop.png) |
+| Menu met garage en baankeuze | Zandvoort: sprong over de koffiekop |
+| ![Sprong tussen ordners](screenshots/04-interlagos-ordners.png) | ![Sprong boven de kruising](screenshots/05-suzuka-kruising.png) |
+| Interlagos: sprong tussen de ordners | Suzuka: sprong boven de kruising |
+| ![Brug over de baan](screenshots/06-silverstone-flyover.png) | ![Looping van een rolmaat](screenshots/07-spa-kemmel-looping.png) |
+| Silverstone: de Hangar Straight als brug | Spa: looping van een rolmaat op Kemmel |
+| ![De staande klok als tunnel](screenshots/08-monaco-tunnel.png) | ![Escher-trap](screenshots/09-onmogelijke-trappen.png) |
+| Monaco: de staande klok is de tunnel | Onmogelijke Trappen: schans op de trap |
 | ![Camera achter de auto in een looping](screenshots/10-camera-in-looping.png) | ![Uitslag](screenshots/11-uitslag.png) |
 | Camera achter de auto, midden in een looping | Uitslag na de race |
 
@@ -54,6 +58,7 @@ Racen met speelgoedautootjes over je bureau. Spring over koffiekoppen, rijd loop
 | ← → / A D | Sturen |
 | Spatie | Handrem: driften en duwen |
 | C | Wisselen tussen de anamorfe blik en de camera achter de auto |
+| R | Naast de baan: terug op de baan |
 | M | Geluid aan of uit |
 | Scroll | Inzoomen |
 | Esc | Race verlaten |
